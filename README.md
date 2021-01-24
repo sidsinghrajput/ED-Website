@@ -1,3 +1,3 @@
 # ETHICAL DEVELOPERS
 ## WireFrames
-<img src=ethical - Window.png>
+<img src= ED-Website/ethical.png >
