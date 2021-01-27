@@ -1,0 +1,57 @@
+body{
+
+}
+.sidebar{
+
+  background-color: #e6f3ff;
+margin-right: 94%;
+margin-top:-70px;
+padding: 5px
+}
+body {
+  box-sizing:border-box;
+margin:0;
+padding:0;
+}
+
+#main-navbar {
+text-align: right;
+    font: 2em;
+  background: #b3daff;
+  margin-left: 20%;
+}
+
+#main-navbar ul {
+  margin: 0;
+  padding: 0;
+}
+
+#main-navbar li {
+  display: inline-block;
+  padding: 20px 20px;
+}
+
+#main-navbar li a {
+  text-decoration: none;
+  color: #222;
+}
+
+#main-navbar li a:hover {
+  padding-bottom: 3px;
+  color: grey;
+}
+.fa-comments{
+  color: #339cff;
+}
+.fa-euro-sign{
+  color: #ffff00;
+}
+.fa-fire{
+  color: orange;
+}
+.fa-user-circle{
+  color: white;
+}
+.fa-home:hover{
+  color: pink;
+}
