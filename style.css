@@ -2,16 +2,19 @@ body{
 
 }
 .sidebar{
-
-  background-color: #e6f3ff;
+background-color: #e6f3ff;
 margin-right: 94%;
-margin-top:-70px;
+margin-top:-75px;
 padding: 5px
 }
 body {
   box-sizing:border-box;
 margin:0;
 padding:0;
+}
+#text_footer{
+  color: grey;
+  font-size: 10px;
 }
 
 #main-navbar {
@@ -54,4 +57,27 @@ text-align: right;
 }
 .fa-home:hover{
   color: pink;
+}
+.fa-github{
+  color: black;
+}
+.fa-instagram{
+  color: black;
+}
+.fa-whatsapp{
+  color: black;
+}
+.fa-twitter{
+  color: black;
+}
+.fa-linkedin{
+  color: black;
+}
+footer{
+  background-color:#e6f3ff;
+}
+.social_icons{
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
 }
