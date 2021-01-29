@@ -1,0 +1,103 @@
+#main-navbar {
+  text-align: right;
+  font: 2em;
+  background: #C3D0D9;
+  margin-left: 20%;
+}
+
+#main-navbar ul {
+  margin: 0;
+  padding: 0;
+}
+
+#main-navbar li {
+  display: inline-block;
+  padding: 20px 20px;
+}
+
+#main-navbar li a {
+  text-decoration: none;
+  color: #222;
+}
+
+#main-navbar li a:hover {
+  padding-bottom: 3px;
+  color: grey;
+}
+#text_footer{
+  color: grey;
+  font-size: 10px;
+}
+
+.sidebar{
+  background-color: #DFE7ED;
+  margin-right: 94%;
+  margin-top:-75px;
+  padding: 5px;
+}
+.fa-comments{
+  color: #339cff;
+}
+.fa-euro-sign{
+  color: #ffff00;
+}
+.fa-fire{
+  color: orange;
+}
+.fa-user-circle{
+  color: white;
+}
+
+.fa-home{
+  color: #4A5D6B
+}
+.fa-tasks{
+  color: #4A5D6B
+}
+.fa-sticky-note{
+  color: #4A5D6B
+}
+.fa-star{
+  color: #4A5D6B
+}
+.fa-envelope{
+  color: #4A5D6B
+}
+.fa-trophy{
+  color: #4A5D6B
+}
+.fa-male{
+  color: #4A5D6B
+}
+
+.fa-home:hover{
+  color: pink;
+}
+.fa-github{
+  color: #4A5D6B;
+}
+.fa-instagram{
+  color: #4A5D6B;
+}
+.fa-whatsapp{
+  color: #4A5D6B;
+}
+.fa-twitter{
+  color: #4A5D6B;
+}
+.fa-linkedin{
+  color: #4A5D6B;
+}
+.social_icons{
+  align-items: center;
+  padding: 10px 10px 0px 10px;
+  /* margin: 10px; */
+}
+body {
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+footer{
+  background-color:#DFE7ED;
+}
