@@ -2,4 +2,4 @@
 ## WireFrames
 
 ### Home
-<img src= ethical.png >
+<img src= images/Wireframes/ethical.png>
